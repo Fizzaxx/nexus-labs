@@ -36,5 +36,5 @@ A sleek, animated dark-mode landing page built with React, Tailwind CSS, and Fra
 - Heroicons for SVG icons
 
 ### 🔒 Protection Notice  
-- **Legal Licensing**: Commercial use requires written permission. 
+- **Legal Licensing**: Commercial use requires written permission and Redistribution as your own work is strictly prohibited. 
 > Violators will be subject to **DMCA takedowns**.  
